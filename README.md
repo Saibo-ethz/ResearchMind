@@ -4,6 +4,8 @@ A production-grade autonomous research system powered by **LangGraph**, featurin
 
 ## Architecture Overview
 
+For the complete LangGraph node map, routing rules, shared-state contract, and architecture assessment, see [LangGraph Architecture](docs/langgraph-architecture.md).
+
 ```
 User Query
     │
